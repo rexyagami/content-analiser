@@ -1,0 +1,15 @@
+.container{
+    position: relative;
+  }
+.center-div  {
+    margin: auto;
+    position: absolute;
+    width: 100%;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.card{
+    border-left: 5px solid #ED494A;
+}
